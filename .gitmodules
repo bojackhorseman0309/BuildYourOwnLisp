@@ -1,0 +1,3 @@
+[submodule "BuildYourOwnLisp"]
+	path = BuildYourOwnLisp
+	url = https://github.com/orangeduck/BuildYourOwnLisp.git
